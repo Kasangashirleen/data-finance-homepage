@@ -1,0 +1,9 @@
+{
+    "editor.cursorStyle": "line-thin",
+    "outline.problems.enabled": true,
+    "problems.decorations.enabled": true,
+    "editor.guides.bracketPairsHorizontal": false,
+    "editor.language.colorizedBracketPairs": [
+        
+    ]
+}
